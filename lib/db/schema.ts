@@ -32,8 +32,8 @@ export const entitiesRelations = relations(entities, ({ one, many }) => ({
     children: many(entities)
 }));
 
-export const File = typeof entities.$inferSelect;
-export const NewFile = typeof entities.$inferInsert;
+export type File = typeof entities.$inferSelect;
+export type NewFile = typeof entities.$inferInsert;
 
-export const Folder = typeof entities.$inferSelect;
-export const NewFolder = typeof entities.$inferInsert;
+export type Folder = typeof entities.$inferSelect;
+export type NewFolder = typeof entities.$inferInsert;
