@@ -6,8 +6,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%E2%9C%93-06B6D4?logo=tailwindcss)
 ![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)
 
-> **Draft README** — feel free to adjust any section: description, licensing, contacts, or deployment instructions.
-
 ---
 
 ## About the Project
